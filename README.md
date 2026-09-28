@@ -1,31 +1,59 @@
-# pi-smx-batoi-26-27
+## pi-smx-batoi-26-27
 Esta es la actividad formativa de Proyecto Intermodular
+
 ## Objetivos
 
 - Aprender a utilizar GitHub.
-- Aprender a crear y modificar repositorios.
-- Aprender a trabajar con archivos Markdown.
-  
-## Instal·lació
+- Aprender a crear y modificar archivos README.
+- Aprender a utilizar Markdown.
 
-Per a instal·lar i preparar el projecte, cal tindre Git instal·lat.
+## Tecnologías utilizadas
 
-## Ordre de Linux
+- Git
+- GitHub
+- Markdown
+- Linux
+
+## Equipos y dispositivos
+
+| Dispositivo | Nombre | Dirección IP |
+|---|---|---|
+| Servidor | SERVER01 | 192.168.1.10 |
+| PC | PC01 | 192.168.1.20 |
+| PC | PC02 | 192.168.1.21 |
+
+## Enlace
+
+[GitHub](https://github.com/)
+
+## Imagen
+
+![Logo de GitHub](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
+
+## Comando Linux
+
+El comando `ls` permite mostrar los archivos y carpetas del directorio actual.
+
+## Instalación
+
+Para instalar Git en Ubuntu podemos utilizar el siguiente comando:
 
 ```bash
-ls
+sudo apt install git
 ```
-## Tasques
 
-### Realitzades
+## Estado del proyecto
 
-- [x] Crear el repositori de GitHub.
-- [x] Crear el fitxer README.md.
+### Tareas realizadas
 
-### Pendents
+- [x] Crear el repositorio de GitHub.
+- [x] Crear el archivo README.md.
 
-- [ ] Afegir més informació al projecte.
-- [ ] Continuar treballant en el projecte.
+### Tareas pendientes
+
+- [ ] Añadir más contenido al proyecto.
+- [ ] Continuar desarrollando el proyecto.
+
 ## Autor
 
 Alex Calabuig Belda
